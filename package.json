@@ -1,12 +1,12 @@
 {
   "name": "parcauto-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "api pour la gestion d'un parc automobile avec express et nodejs",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "dev": "node --watch server.js"
+    "dev":"nodemon server.js",
+    "start":"node server.js"
   },
   "keywords": [],
   "author": "hafid",

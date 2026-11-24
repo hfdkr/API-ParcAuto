@@ -6,7 +6,7 @@ API REST (Express) de gestion des véhicules d'une agence de location. Les donn�
 
 ```bash
 npm install
-npm start          # ou : npm run dev (redémarrage auto)
+npm start          # ou : npm run dev (redemarrage auto)
 ```
 
 Serveur : http://localhost:3000
